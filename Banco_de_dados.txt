@@ -1,0 +1,7 @@
+Nome da Base de Dados - diverpet
+Nome de Usuário do Banco de Dados - bancodiverpet
+Senha - ]PL+&0wnRlY]C{Sm
+
+nomeBD - id17038162_diverpet
+Usuário DB - id17038162_bancodiverpet
+Hospedagem de DB - localhost
